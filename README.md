@@ -17,6 +17,7 @@ The game will prompt you to guess a letter within a word, checking if it is with
 ![correct-answer](images/correct-answer.png)
 - If your guess is incorrect, the game will notify you and take away a life.
 ![incorrect-answer](images/wrong-answer.png)
-- The game ends when the user has successfully guessed all the letters within the word or the number of lives are depleted.
+- The game ends either when the user has successfully guessed all the letters within the word 
 ![win](images/winning-state.png)
+- or when the number of lives are depleted.
 ![lost](images/losing-state.png)
