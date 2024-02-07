@@ -14,9 +14,9 @@ The project is comprised of:
 ## Instructions
 The game will prompt you to guess a letter within a word, checking if it is within the word or not.
 - If your guess is correct, the word will reveal where your letter applies. The game will prompt you to guess again.
-[correct-answer](images/correct-answer.png)
+![correct-answer](images/correct-answer.png)
 - If your guess is incorrect, the game will notify you and take away a life.
-[incorrect-answer](images/wrong-answer.png)
+![incorrect-answer](images/wrong-answer.png)
 - The game ends when the user has successfully guessed all the letters within the word or the number of lives are depleted.
-[win](images/winning-state.png)
-[lost](images/losing-state.png)
+![win](images/winning-state.png)
+![lost](images/losing-state.png)
